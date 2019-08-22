@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/reece.giles/CLionProjects/untitled1/main.c
+stdio.h
+-
+openssl/bn.h
+-
+math.h
+/mnt/c/Users/reece.giles/CLionProjects/untitled1/math.h
+openssl/sha.h
+-
+
